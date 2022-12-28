@@ -58,4 +58,4 @@ int main()
                                 };   
     prim(g);    
     return 0;  
-}  sssss
+}  
